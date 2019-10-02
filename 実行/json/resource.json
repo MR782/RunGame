@@ -1,0 +1,79 @@
+{
+  "graph": [
+    {
+      "name": "player_run",
+      "path": "./img/character/player_run.png",
+      "width": 50,
+      "height": 47,
+      "vertical": 1,
+      "horizontal": 6,
+      "loop": true,
+      "interval": 10,
+      "sheets": 6,
+      "scope": [
+        "player",
+        "chara"
+      ]
+    },
+    {
+      "name": "player_jump",
+      "path": "./img/character/player_jump.png",
+      "width": 40,
+      "height": 46,
+      "vertical": 1,
+      "horizontal": 5,
+      "loop": true,
+      "interval": 10,
+      "sheets": 5,
+      "scope": [
+        "player",
+        "chara"
+      ]
+    },
+    {
+      "name": "block",
+      "path": "./img/character/block.png",
+      "width": 32,
+      "height": 32,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 1,
+      "scope": [
+        "block",
+        "chara"
+      ]
+    },
+    {
+      "name": "item",
+      "path": "./img/character/melon.png",
+      "width": 32,
+      "height": 32,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 1,
+      "scope": [
+        "item",
+        "chara"
+      ]
+    },
+    {
+      "name": "cloud",
+      "path": "./img/character/title_cloud.png",
+      "width": 64,
+      "height": 32,
+      "vertical": 1,
+      "horizontal": 1,
+      "loop": false,
+      "interval": 0,
+      "sheets": 1,
+      "scope": [
+        "cloud",
+        "chara"
+      ]
+    }
+  ]
+}

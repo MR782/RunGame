@@ -1,0 +1,13 @@
+{
+  "Map":[
+	  {
+		  "chipsize": 32,
+		  "mapMaxX": 480,
+		  "mapMaxY": 320,
+		  "name": "stage1",
+      "chipNumwidth": 6,
+      "chippath":  "./img/back-chip/back/mapchip.png",
+		  "datapath":"./map/stage1.csv"
+	  }
+  ]
+}

@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Resource">
+      <UniqueIdentifier>{b06c8bc0-becc-4ad3-aa3a-7596d4f229db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object">
+      <UniqueIdentifier>{d79388be-9e56-4c38-a064-093fc6675cb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Base">
+      <UniqueIdentifier>{55c2eee2-598b-45f3-9952-e465a7cb56f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Creater">
+      <UniqueIdentifier>{077b0cef-fe48-4474-8ff3-94d9ba2d69a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Scene">
+      <UniqueIdentifier>{04b817f4-15f7-4c8a-a8ea-c9df00a3b5fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controller">
+      <UniqueIdentifier>{3a50b53a-50a8-443b-8801-2c05ece265f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\UI">
+      <UniqueIdentifier>{ba30134f-93c6-48ce-8631-07f0d03d3039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Screen">
+      <UniqueIdentifier>{b975f3c8-3b32-4b03-9343-cd704256e97b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Base\UI">
+      <UniqueIdentifier>{39111316-3890-4318-9a66-4ef3f2de430b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Base\Purpose">
+      <UniqueIdentifier>{ce4551b6-3525-4909-8265-900a2a2433c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Creater\Block">
+      <UniqueIdentifier>{32030dea-d3cf-45b4-8269-2f97c10faa7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Creater\Cloud">
+      <UniqueIdentifier>{9ae6f5f9-8e09-4ff7-8493-bf5b3bdd31db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Creater\Map">
+      <UniqueIdentifier>{7cc82bd1-4fe3-45bb-82a7-d73ec5fd976a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Creater\Item">
+      <UniqueIdentifier>{bcb63cc8-7551-4669-a2e1-21a103aa876f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controller\Engine">
+      <UniqueIdentifier>{2b8d0bdb-7001-457e-9e29-8409b5290ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controller\KeyBoard">
+      <UniqueIdentifier>{c5554bb9-b3b5-4cfe-8035-dd84c3031990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controller\Rigit">
+      <UniqueIdentifier>{4cfd1316-ee7f-4144-9dc6-d247e0a18014}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Controller\Map">
+      <UniqueIdentifier>{03399fcf-450c-4028-a1a2-32e87131faee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Screen\FadeGraph">
+      <UniqueIdentifier>{d5d4cb2f-d193-4b04-b9d5-139d897529b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Screen\FadeIO">
+      <UniqueIdentifier>{c2faecfb-d6b7-4793-815e-226ba01eec7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Screen\Size">
+      <UniqueIdentifier>{59c135af-b7ba-4838-9501-e0f5c0bf63ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\UI\GameScene">
+      <UniqueIdentifier>{98880225-6646-4b73-9906-469a724fe74d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\UI\GameScene\Result">
+      <UniqueIdentifier>{d7f2aaea-95e3-4dc0-baba-a02fcec0c570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Scene\Core">
+      <UniqueIdentifier>{5462efaa-5999-415f-b727-85dfff06d5f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Scene\Game">
+      <UniqueIdentifier>{f98c38ac-632c-4624-8d1e-26ef816a0fbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Scene\Title">
+      <UniqueIdentifier>{bb05585f-be37-4d2c-a295-6bc30853c48b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\BackGround">
+      <UniqueIdentifier>{0957f13a-db1e-4eb9-8bd1-4e3eba540804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\Block">
+      <UniqueIdentifier>{024536ed-303c-4337-bd32-f76c9a9062c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\Cloud">
+      <UniqueIdentifier>{e7fd29d4-beea-4031-8174-6ea3743a980f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\Item">
+      <UniqueIdentifier>{de5636d1-7f9a-4351-b2a1-5f2b9a1ab12e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\SuperClass">
+      <UniqueIdentifier>{7d60e01b-19eb-4435-8fb7-6cab8ed0fcd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Object\Player">
+      <UniqueIdentifier>{ef74e62d-9ebe-4036-8fb9-46c503fc1f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resource\Audio">
+      <UniqueIdentifier>{8cfe70d6-3b32-46a0-a4ab-e16854faa81f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resource\Animation">
+      <UniqueIdentifier>{d39304d6-8ebf-4032-a180-5d94f3bfb2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resource\Animation\GraphicResource">
+      <UniqueIdentifier>{bf897402-7a40-4149-85c8-a302c661aab6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="json11.cpp">
+      <Filter>リソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicUI.cpp">
+      <Filter>ソース ファイル\Base\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Purpose.cpp">
+      <Filter>ソース ファイル\Base\Purpose</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockCreater.cpp">
+      <Filter>ソース ファイル\Creater\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudCreater.cpp">
+      <Filter>ソース ファイル\Creater\Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="CreateMap.cpp">
+      <Filter>ソース ファイル\Creater\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemCreater.cpp">
+      <Filter>ソース ファイル\Creater\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>ソース ファイル\Controller\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyBoard.cpp">
+      <Filter>ソース ファイル\Controller\KeyBoard</Filter>
+    </ClCompile>
+    <ClCompile Include="Rigit.cpp">
+      <Filter>ソース ファイル\Controller\Rigit</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>ソース ファイル\Controller\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreeHelperGraph.cpp">
+      <Filter>ソース ファイル\Screen\FadeGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenFunction.cpp">
+      <Filter>ソース ファイル\Screen\FadeIO</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenSystem.cpp">
+      <Filter>ソース ファイル\Screen\Size</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUI.cpp">
+      <Filter>ソース ファイル\UI\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultWindow.cpp">
+      <Filter>ソース ファイル\UI\GameScene\Result</Filter>
+    </ClCompile>
+    <ClCompile Include="CoreScene.cpp">
+      <Filter>ソース ファイル\Scene\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>ソース ファイル\Scene\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>ソース ファイル\Scene\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>ソース ファイル\Object\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>ソース ファイル\Object\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>ソース ファイル\Object\Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>ソース ファイル\Object\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>ソース ファイル\Object\SuperClass</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソース ファイル\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>ソース ファイル\Resource\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>ソース ファイル\Resource\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>ソース ファイル\Resource\Animation\GraphicResource</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="define.h">
+      <Filter>ソース ファイル\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="json11.hpp">
+      <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicUI.h">
+      <Filter>ソース ファイル\Base\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Purpose.h">
+      <Filter>ソース ファイル\Base\Purpose</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockCreater.h">
+      <Filter>ソース ファイル\Creater\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudCreater.h">
+      <Filter>ソース ファイル\Creater\Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateMap.h">
+      <Filter>ソース ファイル\Creater\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemCreater.h">
+      <Filter>ソース ファイル\Creater\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>ソース ファイル\Controller\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyBoard.h">
+      <Filter>ソース ファイル\Controller\KeyBoard</Filter>
+    </ClInclude>
+    <ClInclude Include="Rigit.h">
+      <Filter>ソース ファイル\Controller\Rigit</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>ソース ファイル\Controller\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenHelperGraph.h">
+      <Filter>ソース ファイル\Screen\FadeGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenFunction.h">
+      <Filter>ソース ファイル\Screen\FadeIO</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSystem.h">
+      <Filter>ソース ファイル\Screen\Size</Filter>
+    </ClInclude>
+    <ClInclude Include="GameUI.h">
+      <Filter>ソース ファイル\UI\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultWindow.h">
+      <Filter>ソース ファイル\UI\GameScene\Result</Filter>
+    </ClInclude>
+    <ClInclude Include="CoreScene.h">
+      <Filter>ソース ファイル\Scene\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>ソース ファイル\Scene\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>ソース ファイル\Scene\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>ソース ファイル\Object\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>ソース ファイル\Object\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>ソース ファイル\Object\Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>ソース ファイル\Object\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>ソース ファイル\Object\SuperClass</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ソース ファイル\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>ソース ファイル\Resource\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>ソース ファイル\Resource\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ソース ファイル\Resource\Animation\GraphicResource</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

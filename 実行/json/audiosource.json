@@ -1,0 +1,61 @@
+{
+  "audio": [
+    {
+      "name": "jump",
+      "loop": false,
+      "path": "./bgm/jump.mp3",
+      "scope": [
+        "se",
+        "jump",
+        "action"
+      ]
+    },
+    {
+      "name": "hit",
+      "loop": false,
+      "path": "./bgm/Hit.ogg",
+      "scope": [
+        "se",
+        "hit",
+        "action"
+      ]
+    },
+    {
+      "name": "get_item",
+      "loop": false,
+      "path": "./bgm/item.ogg",
+      "scope": [
+        "se",
+        "get_item",
+        "action"
+      ]
+    },
+    {
+      "name": "game",
+      "loop": true,
+      "path": "./bgm/game.ogg",
+      "scope": [
+        "bgm",
+        "game"
+      ]
+    },
+    {
+      "name": "decision",
+      "loop": false,
+      "path": "./bgm/decision.ogg",
+      "scope": [
+        "se",
+        "decision"
+      ]
+    },
+    {
+      "name": "title",
+      "loop": false,
+      "path": "./bgm/title.ogg",
+      "scope": [
+        "bgm",
+        "title"
+      ]
+    }
+  ]
+}
